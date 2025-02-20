@@ -45,5 +45,6 @@ df["Age"].mean()
 
 # Print how many unique countries are there in the Country column.
 
-df['Country'].nunique()
-
+h = df['Country'].value_counts()
+h
+h.nunique()
