@@ -37,7 +37,7 @@ df.head(5)
 
 # Print the datatype of all columns.
 
-df.dtype()
+df.dtype
 
 # Print the mean age of the survey participants.
 
