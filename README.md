@@ -41,7 +41,7 @@ df.dtypes
 
 # Print the mean age of the survey participants.
 
-df["survey_participants"].mean()
+df["Age"].mean()
 
 # Print how many unique countries are there in the Country column.
 
